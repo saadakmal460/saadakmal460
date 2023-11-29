@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadakmal460&label=Profile%20views&color=0e75b6&style=flat" alt="saadakmal460" /> </p>
 
-- 🔭 I’m currently working on **Data Structures and Algorithms optimize the use of computational resources such as time and space**
+- 🔭 I’m currently working on **Data Structures and Algorithms to optimize the use of computational resources such as time and space**
 
 - 🌱 I’m currently learning **MERN Stack development**
 

@@ -3,7 +3,7 @@
 ## 💫 About Me:
 <h1 align="center">Hi 👋, I'm Muhammad Saad Akmal</h1>
 <h3 align="center">"An adept MERN stack developer from Pakistan..."</h3>
-🔭 I’m currently working on MERN stack projects<br>🌱 I’m currently learning MERN Stack development<br>📫 How to reach me saadakmal460@gmail.com
+🔭 I’m currently working on MERN stack projects<br>🌱 I’m currently learning Machine Learning<br>📫 How to reach me saadakmal460@gmail.com
 
 
 ## 🌐 Socials:
